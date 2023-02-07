@@ -1,0 +1,31 @@
+
+h2{
+    margin-top: 20px;
+    margin-left: 480px;
+    margin-right: 480px;
+    color: aliceblue;
+    text-align: center;
+}
+img{
+    background-color: aliceblue;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+}
+h4{
+    margin-top: 20px;
+    color: aliceblue;
+}
+.col{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.zoom {
+    transition: transform .2s; 
+}
+ 
+.zoom:hover {
+    transform: scale(1.1); 
+}

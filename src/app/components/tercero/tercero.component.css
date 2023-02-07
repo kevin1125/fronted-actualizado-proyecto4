@@ -1,0 +1,35 @@
+
+h2{
+    margin-top: 20px;
+    margin-left: 480px;
+    margin-right: 480px;
+    color: aliceblue;
+    text-align: center;
+}
+
+img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50% ;
+    border-width: 5px;
+    border-style: solid;
+    border-color: aliceblue;
+    margin-top: 20px;
+}
+
+.col{
+    text-align: center;
+}
+
+h5{
+    margin-top: 8px;
+    color: aliceblue;
+}
+
+.zoom {
+    transition: transform .2s; 
+}
+ 
+.zoom:hover {
+    transform: scale(1.1); 
+}
